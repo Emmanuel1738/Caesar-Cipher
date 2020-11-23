@@ -1,2 +1,0 @@
-# Teen-Pregnancy-Crisis
-This Project seeks to highlight the dramatic increase in teenage pregnancies in Kenya during the Covid 19 pandemic in 2020. I will map out data received from WIGS(Women in GIS) Kenya, in a bid to visualize the impact that this crisis has had on various communities in rural Kenya. The purpose of this project is to create an awareness, provide resources to young girls on ways to avoid teenage pregnancies as well as provide a platform that allows the youth to share experiences anonymously and therefore empowering each other.
